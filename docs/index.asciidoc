@@ -66,6 +66,7 @@ output {
      codec => "plain"                         (optional)
      canned_acl => "private"                  (optional. Options are "private", "public-read", "public-read-write", "authenticated-read". Defaults to "private" )
    }
+}
 
 
 [id="plugins-{type}s-{plugin}-options"]
